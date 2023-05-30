@@ -5,7 +5,7 @@ Passionate about investing and understanding how businesses work. Started invest
 In this repository you can find a sample of valuations I am proud of. 
 
 # Returns
-Achieved returns of 2019: 5%, 2020: 64%, 2021: 115%, 2022: -20%, 2023 YTD: 25%
+Achieved returns of 2019: 5%, 2020: 64%, 2021: 115%, 2022: -30%, 2023 YTD: 44%
 
 # Framework
 
