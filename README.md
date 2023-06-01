@@ -13,8 +13,6 @@ Achieved returns of 2019: 5%, 2020: 64%, 2021: 115%, 2022: -30%, 2023 YTD: 44%
 
 My approach is to look for businesses with excellent economics and a clear competitive advantage in mature industries with high barriers to entry and low vulnerabiliy to change.
 
-Developed sophisticated quantitative valuation models based on discounted cash flow analysis, earnings power value, net asset value, and expected returns.
-
-Specialized in the banking and consumer staple industries.
+Read more about my strategy in *Tesis y Resultados*
 
 
